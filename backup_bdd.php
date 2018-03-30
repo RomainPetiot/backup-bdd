@@ -4,9 +4,6 @@
  * Plugin URI: https://www.romainpetiot.com/
  * Description: Dump database file to the actif theme<br /> /Applications/MAMP/Library/bin/mysqldump
  * Author : Romain Petiot
- * Text Domain:
- * Version: 1.0
- * Stable tag: 1.0
  *
  */
 
